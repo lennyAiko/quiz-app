@@ -23,6 +23,6 @@ module.exports.routes = {
 
 
   // API
-  'GET /': 'home/index-api',
+  'GET /home': 'home/index-api',
 
 }
