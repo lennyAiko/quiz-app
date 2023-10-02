@@ -21,8 +21,4 @@ module.exports.routes = {
 
   'GET /': 'home/index',
 
-
-  // API
-  'GET /home': 'home/index-api',
-
 }
