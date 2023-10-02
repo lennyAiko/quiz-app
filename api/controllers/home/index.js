@@ -8,10 +8,9 @@ module.exports = {
 
   exits: {  },
 
-  fn: async function (inputs) {
-
+  fn: async function () {
     // All done.
-    return;
+    return sails.inertia.render('index');
 
   }
 
