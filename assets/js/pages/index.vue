@@ -11,7 +11,7 @@
 
             <div class="w-1/2 grid grid-cols-3">
 
-                <a href="" class="mx-auto text-lg hover:text-sky-950">Home</a>
+                <a href="/" class="mx-auto text-lg hover:text-sky-950">Home</a>
                 <a href="" class="mx-auto text-lg hover:text-sky-950">Add Questions</a>
                 <a href="" class="mx-auto text-lg hover:text-sky-950">Take Quiz</a>
 
